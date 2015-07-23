@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>92cf6431-29df-460d-90cd-debbc3448049</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>VRET_164_T1.docx</DisplayName>
+    <PathInsideRepo>VRET_164 Tests</PathInsideRepo>
+    <RepoRootFolder>C:\Users\admin\Documents\VersionRocket Repositories\LoganRepo</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>9faa6ec5-31de-4d71-8361-c3ded61654e6</guid>
+    <guid>fc95d40d-4169-4ebc-af65-c952593566a8</guid>
+    <guid>4fac9a1a-3799-4108-a74f-b9d3e4b257e7</guid>
+  </Tags>
+</FolderEntryTags>
